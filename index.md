@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Aarush Tyagi's First Website
+## Welcome to Aarush-Tyagi2007s Website!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
