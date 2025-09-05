@@ -16,11 +16,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I (so far) have enjoyed the atmosphere as it is very welmcoming and fun
+- I have enjoyed the TAs who have been extremely chill yet very informative
+- I also have enjoyed the content so far too
 
-1. Numbered
-2. List
+1. Number one
+2. Number two
 
 **Bold** and _Italic_ and `Code` text
 
